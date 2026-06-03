@@ -1,0 +1,8 @@
+name          = "crypto"
+version       = "1.0.0"
+license       = "MIT"
+description   = "Cryptographic hashes, HMAC, secure random, and UUID generation. All hash digests are returned as **lowercase hex Strings** (so they're ready to compare or store as identifiers). Random bytes use the O"
+repository    = "github.com/AlexVachon/quirk-crypto"
+quirk-version = ">=1.4.0"
+
+[deps]
